@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ketannakum
-- 👀 I’m am interested in Software Architecture and Design, Data Science and Artificial Intelligence, Cloud Native Apps and Product Owner.  
-- 🌱 I’m currently learning Spring Boot, Software Architecture & Design, AI/ML and Data Science. 
-- 💞️ I’m looking to collaborate on Software Architecture and Design projects. 
+- 👀 I’m am interested in Software Architecture and Design, Data Science and Artificial Intelligence, Cloud Native Apps, Product Development and Delivery.  
+- 🌱 I’m currently learning - Spring Boot, Software Architecture & Design, Python, AI/ML and Data Science. 
+- 💞️ I’m looking to collaborate on Software Architecture and Design/ Delivery projects. 
 - 📫 How to reach me - ketantnakum@gmail.com
 
 <!---
